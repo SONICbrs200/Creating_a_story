@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d9f108b-645a-4d45-b424-89291ee46b43/dblqqh9-06e74956-9759-46e3-b85f-12da07e0e1e3.png/v1/fill/w_1280,h_815,q_75,strp/sonic_mania_wallpaper___just_background_by_diegoshedyk53182-dblqqh9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wZDlmMTA4Yi02NDVhLTRkNDUtYjQyNC04OTI5MWVlNDZiNDMvZGJscXFoOS0wNmU3NDk1Ni05NzU5LTQ2ZTMtYjg1Zi0xMmRhMDdlMGUxZTMucG5nIiwid2lkdGgiOiI8PTEyODAiLCJoZWlnaHQiOiI8PTgxNSJ9XV19.Xr3enjcE6WSOq1Q5Z_W69ZA0CmuYn8VKvhJbjDvRKs0");
+    background-size: 115%;
+    font-family: "Dela Gothic One", sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+    margin: 0px;
+}
+
+button {
+    background: linear-gradient( 90deg, red, blue);
+    font-family: "Rowdies", sans-serif;
+    font-size: larger;
+    color: white;
+}
+
+.step {
+    display: none;
+}
+
+.step.active {
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 75%;
+}
+
+.p-texto {
+    background-color: rgba(0, 0, 0, 0.603);
+}
